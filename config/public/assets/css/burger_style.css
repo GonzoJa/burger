@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Bob's Burgers";
+    src: url('http://www.fontsaddict.com/fontface/bobs-burgers.ttf');
+  }
+  
+  .border{
+    border-style: solid; 
+    font-weight: 900;
+    padding: 6px; 
+    background-color:white; 
+    color: red;
+    position: relative;
+    z-index: -100;
+  }
+  
+  * {
+        margin-bottom: 5px;
+        color: red;
+        font-family: bobsBurger;
+  }
+  
+  body{
+      background: #ffffff url("http://static2.wikia.nocookie.net/bobsburgerpedia/images/5/50/Wiki-background") top left repeat;
+      background-color: yellow;
+  }
+  
+  h1{
+      background-color: orange;
+      text-align: center;
+  }
+  
+  
+  
+  Add Comment
